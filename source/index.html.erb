@@ -1,0 +1,53 @@
+---
+title: VicRoads Unofficial Motorbike Test
+---
+
+<div class="welcome page page-0 active-page">
+  <h1>Welcome to the <i>unofficial</i> VicRoads motorbike test</h1>
+  <p>There is a total of <%= data.questions.questions.count %> questions.</p>
+  <div class="button-container">
+    <a class="page-0" href="#">Begin</a>
+  </div>
+</div>
+
+<% data.questions.questions.shuffle.each_with_index do |question, index| %>
+  <div class="page page-<%= index + 1 %>">
+    <h1><%= question.question %>:</h1>
+
+    <div class="choices">
+      <% question.choices.shuffle.each do |choice| %>
+        <div class="fieldset"><label for="question-<%= index + 1 %>"><%= choice %></label><input class="question-<%= index + 1 %>" name="question-<%= index + 1 %>" value="<%= choice %>" data-answer="<%=question.answer%>" type="radio"></div>
+      <% end %>
+    </div>
+
+    <div class="button-container">
+      <% if index + 1 == data.questions.questions.count %>
+        <a class="finish" href="#">Finish</a>
+      <% else %>
+        <a href="#">Continue</a>
+      <% end %>
+    </div>
+  </div>
+<% end %>
+
+<div class="page page-<%= data.questions.questions.count + 1 %> last-page">
+  <h1>You're done!</h1>
+  <p>There was a total of <span class="total-questions"></span> questions and you answered <span class="correct-answers"></span> correctly</p>
+
+  <div class="button-container">
+    <a class="start-again">Restart the test</a>
+  </div>
+
+  <div class="results">
+  </div>
+</div>
+
+<div class="credits">
+  <p>This was made by <a href="http://nickhayden.com">Nick Hayden</a> with no support or permission from <a href="https://vicroads.vic.gov.au">VicRoads</a>. Download the <a href="https://www.vicroads.vic.gov.au/licences/licence-and-permit-types/motorcycle-licence-and-learner-permit/victorian-rider-handbook"> Victorian Rider Handbook</a>.</p>
+  <p>
+    <a href="https://github.com/haydos585"><i class="fa fa-github"></i></a>
+    <a href="https://bitbucket.org/haydos585"><i class="fa fa-bitbucket"></i></a>
+    <a href="https://www.linkedin.com/in/nickhayden92"><i class="fa fa-linkedin"></i></a>
+    <a href="https://twitter.com/haydos585"><i class="fa fa-twitter"></i></a>
+  </p>
+</div>

@@ -1,0 +1,384 @@
+{
+  "questions": [
+    {
+        "id": "1",
+        "question": "You are riding with a pillion passenger, the pillion passenger",
+        "answer": "can be 9 years old",
+        "choices": [
+          "can sit sideways",
+          "is allowed to face rearward",
+          "can be 9 years old"
+        ]
+    },
+    {
+        "id": "2",
+        "question": "Angela holds both probationary car and probationary motorcycle licences. When riding her motorcycle she",
+        "answer": "must display a 'P' plate on the rear of her motorcycle",
+        "choices": [
+          "must display a 'P' plate on the rear of her motorcycle",
+          "does not need to display a 'P' plate",
+          "must display a 'P' plate on the front and rear of her motorcycle"
+        ]
+    },
+    {
+        "id": "3",
+        "question": "Steve holds a probationary licence. He may legally ride his bike if",
+        "answer": "he has no alcohol in his blood, that is, his Blood Alcohol Concentration (BAC) is zero",
+        "choices": [
+          "he has not had a drink for a while",
+          "he has no alcohol in his blood, that is, his Blood Alcohol Concentration (BAC) is zero",
+          "he has a BAC below .05"
+        ]
+    },
+    {
+        "id": "4",
+        "question": "You are planning a trip to Adelaide, but you have a cold. You want to take medication. You should",
+        "answer": "ask your doctor or pharmacist whether the cold medicine will make you sleepy or drowsy",
+        "choices": [
+          "take some medicine to make you feel better",
+          "ask your doctor or pharmacist whether the cold medicine will make you sleepy or drowsy",
+          "try to get there as quickly as possible so that you can rest when you arrive"
+        ]
+    },
+    {
+        "id": "5",
+        "question": "You are planning to ride to Sydney from Melbourne. It is a perfect summer’s day with the temperature around 25 degrees Celsius. You should plan to",
+        "answer": "make regular, frequent stops to keep yourself alert",
+        "choices": [
+          "get there in eight hours because the conditions are so good",
+          "get there with only one stop because the conditions are so good",
+          "make regular, frequent stops to keep yourself alert"
+        ]
+    },
+    {
+        "id": "6",
+        "question": "Here are three types of drugs which people sometimes take: alcohol, medicines prescribed by a doctor and medicines sold by a chemist. Which drug may a ect your riding?",
+        "answer": "All three types",
+        "choices": [
+          "Only alcohol",
+          "Only medicines given to you by your doctor",
+          "All three types"
+        ]
+    },
+    {
+        "id": "7",
+        "question": "Jane sees a range of secondhand helmets for sale at a garage sale. They all look new and some are in bright colours. She should",
+        "answer": "not buy a secondhand helmet as she may be unable to see any damage to it",
+        "choices": [
+          "choose the one with the brightest colour and a full visor",
+          "not buy a secondhand helmet as she may be unable to see any damage to it",
+          "not buy a secondhand helmet without speaking to the previous owner"
+        ]
+    },
+    {
+        "id": "8",
+        "question": "The main reason for wearing clothing designed for motorcycling is that it",
+        "answer": "both of the above",
+        "choices": [
+          "protects you from the weather",
+          "helps protect you in a fall",
+          "both of the above"
+        ]
+    },
+    {
+        "id": "9",
+        "question": "Shane has just passed his motorcycle learner permit and has the chance to ride his friend’s new motorcycle. Before he rides he should",
+        "answer": "reconsider and choose not to ride an unfamiliar bike",
+        "choices": [
+          "check that the fuel tap is on reserve",
+          "reconsider and choose not to ride an unfamiliar bike",
+          "ride with his friend as a pillion passenger"
+        ]
+    },
+    {
+        "id": "10",
+        "question": "Glenn has just taken delivery of a new motorcycle. He should",
+        "answer": "adjust the controls and, if possible, handlebars and seat to suit himself",
+        "choices": [
+          "immediately take it out for a run on the open road to see how it goes",
+          "adjust the controls and, if possible, handlebars and seat to suit himself",
+          "take all his friends on rides to show them how much fun motorcycling is"
+        ]
+    },
+    {
+        "id": "11",
+        "question": "Anne is trying to show her sister how to sit on the motorcycle in the correct position. She should sit",
+        "answer": "close enough to the handlebars to reach them with her arms slightly bent so she can turn without having to stretch",
+        "choices": [
+          "at the back of the seat with her arms straight so that she can turn quickly",
+          "close to the handlebars so she can bend over the front of the bike and see the road ahead more clearly",
+          "close enough to the handlebars to reach them with her arms slightly bent so she can turn without having to stretch"
+        ]
+    },
+    {
+        "id": "12",
+        "question": "Tom is about to pull out from the kerb to join the traffic flow. He should",
+        "answer": "make sure he positions the bike so he can see the traffic in both directions before pulling out",
+        "choices": [
+          "accelerate as quickly as possible so that he is going faster than the tra c, and it can’t catch him",
+          "put on his indicator because that gives him right of way",
+          "make sure he positions the bike so he can see the traffic in both directions before pulling out"
+        ]
+    },
+    {
+        "id": "13",
+        "question": "The three best ways to make yourself more visible are",
+        "answer": "ride with your headlight on, ride where you can be seen and wear bright clothing",
+        "choices": [
+          "ride with your headlight on, ride where you can be seen and wear bright clothing",
+          "sound your horn, keep to the left of the road and flash your headlight",
+          "all of the above"
+        ]
+    },
+    {
+        "id": "14",
+        "question": "At an intersection you should",
+        "answer": "choose a lane position which will enable you to be seen by other drivers",
+        "choices": [
+          "change lanes to get past other vehicles",
+          "choose a lane position which will enable you to be seen by other drivers",
+          "sound your horn and then speed through as quickly as possible"
+        ]
+    },
+    {
+        "id": "15",
+        "question": "The gap between your motorcycle and the vehicle ahead, in good conditions, should be at least",
+        "answer": "4 seconds",
+        "choices": [
+          "2 seconds",
+          "3 seconds",
+          "4 seconds"
+        ]
+    },
+    {
+        "id": "16",
+        "question": "Peter is riding along a freeway in the left lane. Cars are moving on to the freeway from the entrance ramp. He should",
+        "answer": "adjust his speed to increase the distance between his bike and the merging traffic",
+        "choices": [
+          "accelerate to get ahead of them",
+          "continue to travel at the same pace and position as it is their responsibility to merge into the traffic safely",
+          "adjust his speed to increase the distance between his bike and the merging traffic"
+        ]
+    },
+    {
+        "id": "17",
+        "question": "When you are being followed too closely you should",
+        "answer": "increase the space in front of your motorcycle so you have more time to react, if you need to",
+        "choices": [
+          "travel faster to increase the distance between you and the tailgater",
+          "brake several times to let the driver know that you think he is driving dangerously",
+          "increase the space in front of your motorcycle so you have more time to react, if you need to"
+        ]
+    },
+    {
+        "id": "18",
+        "question": "Scanning involves",
+        "answer": "moving your eyes from side to side to look at the whole road scene",
+        "choices": [
+          "studying the movements of the car ahead of you",
+          "looking at the road just ahead of you",
+          "moving your eyes from side to side to look at the whole road scene"
+        ]
+    },
+    {
+        "id": "19",
+        "question": "Before changing lanes always do a final",
+        "answer": "headcheck",
+        "choices": [
+          "sound of your horn",
+          "headcheck",
+          "flash of your brake lights"
+        ]
+    },
+    {
+        "id": "20",
+        "question": "To prevent other drivers sharing your lane you should",
+        "answer": "not ride at the extreme sides of your lane",
+        "choices": [
+          "ride to the right of your lane",
+          "ride to the left of your lane",
+          "not ride at the extreme sides of your lane"
+        ]
+    },
+    {
+        "id": "21",
+        "question": "The best way to handle a slippery surface is to",
+        "answer": "reduce your speed",
+        "choices": [
+          "travel on the left side of the road",
+          "use the rear brake if you are in trouble",
+          "reduce your speed"
+        ]
+    },
+    {
+        "id": "22",
+        "question": "Con wants to turn into a road but a number of tram tracks cross each other there. He should",
+        "answer": "if possible, complete the turn before he crosses the tram tracks",
+        "choices": [
+          "if possible, complete the turn before he crosses the tram tracks",
+          "brake whilst crossing tram tracks",
+          "ignore the tram tracks as they will not make much difference to the motorcycle"
+        ]
+    },
+    {
+        "id": "23",
+        "question": "To ride safely along a bumpy road you should",
+        "answer": "keep your speed down",
+        "choices": [
+          "slow down quickly after the first series of bumps",
+          "keep your speed down",
+          "sit on the seat and try to steer your way through the bumps"
+        ]
+    },
+    {
+        "id": "24",
+        "question": "Grease and oil from cars tends to build up",
+        "answer": "in the centre of the lane",
+        "choices": [
+          "along the sides of the road",
+          "in the centre of the lane",
+          "in the right hand part of the lane"
+        ]
+    },
+    {
+        "id": "25",
+        "question": "Three things you can do to ride more safely at night are",
+        "answer": "reduce your speed, increase the distance between your motorcycle and the car ahead, wear a reflective vest",
+        "choices": [
+          "stay closer to other vehicles, always use the high beam, wear dark, warm clothing",
+          "reduce your speed, increase the distance between your motorcycle and the car ahead, wear a reflective vest",
+          "change the type of tyres on your motorcycle, stay closer to other vehicles, keep up with the flow of traffic"
+        ]
+    },
+    {
+        "id": "26",
+        "question": "Nicole notices the lights of the oncoming vehicles seem to bounce up and down. She should",
+        "answer": "reduce her speed and expect a change in road conditions",
+        "choices": [
+          "use her high beam to get a clearer look at the road ahead",
+          "reduce her speed and expect a change in road conditions",
+          "move to the centre of the road"
+        ]
+    },
+    {
+        "id": "27",
+        "question": "Sam just got his licence and a new motorcycle. He rides his motorcycle around to show his girlfriend. May he take his girlfriend for a ride?",
+        "answer": "No, because he has not held his licence for 3 years",
+        "choices": [
+          "Yes, if he has another approved helmet",
+          "Yes, if he has footpegs and handgrips on the motorcycle",
+          "No, because he has not held his licence for 3 years"
+        ]
+    },
+    {
+        "id": "28",
+        "question": "Melissa is taking her brother to his night class. She should",
+        "answer": "give her brother instructions about being a pillion passenger before they start",
+        "choices": [
+          "give him advice on how to ride as a pillion passenger as they are riding",
+          "not speak at all because she cannot hear him clearly when riding",
+          "give her brother instructions about being a pillion passenger before they start"
+        ]
+    },
+    {
+        "id": "29",
+        "question": "A group of friends decide to go on a ride out to the country. They should",
+        "answer": "travel in groups of no more than four or five riders",
+        "choices": [
+          "travel in groups of no more than four or five riders",
+          "travel as a group so that no one gets lost",
+          "divide into two groups and ride beside one another"
+        ]
+    },
+    {
+        "id": "30",
+        "question": "You and your friend have become separated from the others in your group. You think you should take the next turn to the right. You should",
+        "answer": "pull over to the side of the road and stop to discuss which turn to take",
+        "choices": [
+          "accelerate quickly to get ahead and lead the way",
+          "pull over to the side of the road and stop to discuss which turn to take",
+          "draw close to your friend and then shout instructions to let your friend know you want to turn"
+        ]
+    },
+    {
+        "id": "31",
+        "question": "When riding with inexperienced riders you should",
+        "answer": "avoid situations which may place them under pressure",
+        "choices": [
+          "avoid situations which may place them under pressure",
+          "pair up to ride",
+          "put the inexperienced riders in the front"
+        ]
+    },
+    {
+        "id": "32",
+        "question": "Pre-ride checks of your motorcycle should include",
+        "answer": "wheel, tyres and controls",
+        "choices": [
+          "petrol, oil and condition of the paint work",
+          "wheel, tyres and controls",
+          "none of these, as pre-ride checks are unnecessary"
+        ]
+    },
+    {
+        "id": "33",
+        "question": "To help make your motorcycle safe you should clean it each week because",
+        "answer": "it makes it easier to spot missing parts like nuts and bolts",
+        "choices": [
+          "it makes it look better when it is on the road",
+          "it makes it easier to spot missing parts like nuts and bolts",
+          "it makes the motorcycle easier to see on the road"
+        ]
+    },
+    {
+        "id": "34",
+        "question": "If you need to stop quickly in an emergency, you should",
+        "answer": "apply both brakes together",
+        "choices": [
+          "apply the front brake only",
+          "apply both brakes together",
+          "open the throttle"
+        ]
+    },
+    {
+        "id": "35",
+        "question": "If you press forward on the left handgrip when riding, the motorcycle will",
+        "answer": "lean to the left",
+        "choices": [
+          "lean to the right",
+          "lean to the left",
+          "not change its lean"
+        ]
+    },
+    {
+        "id": "36",
+        "question": "The chain on Tam’s motorcycle breaks, but the back wheel does not lock up. He should",
+        "answer": "close the throttle and brake to a stop",
+        "choices": [
+          "release the brakes quickly",
+          "apply the front brake harder",
+          "close the throttle and brake to a stop"
+        ]
+    },
+    {
+        "id": "37",
+        "question": "Kim is riding along and the bike becomes hard to steer because her front tyre has gone flat. She should",
+        "answer": "shift her weight far back on the seat, ease off the throttle and come to a stop",
+        "choices": [
+          "apply the brakes quickly",
+          "shift her weight far back on the seat, ease off the throttle and come to a stop",
+          "open the throttle and speed up to relieve the effect"
+        ]
+    },
+    {
+        "id": "38",
+        "question": "You are riding along a freeway at 80 km/h. The front wheel begins to wobble. You should",
+        "answer": "don’t fight the wobble, but gradually slow down and carefully pull off the road",
+        "choices": [
+          "firmly grip the handgrips and accelerate out of the wobble",
+          "firmly grip the handgrips and apply the brakes quickly to make the shaking stop",
+          "don’t fight the wobble, but gradually slow down and carefully pull off the road"
+        ]
+    }
+  ]
+}
