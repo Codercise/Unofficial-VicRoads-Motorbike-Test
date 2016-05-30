@@ -42,7 +42,7 @@
     },
     {
         "id": "5",
-        "question": "You are planning to ride to Sydney from Melbourne. It is a perfect summer’s day with the temperature around 25 degrees Celsius. You should plan to",
+        "question": "You are planning to ride to Sydney from Melbourne. It is a perfect summer's day with the temperature around 25 degrees Celsius. You should plan to",
         "answer": "make regular, frequent stops to keep yourself alert",
         "choices": [
           "get there in eight hours because the conditions are so good",
@@ -82,7 +82,7 @@
     },
     {
         "id": "9",
-        "question": "Shane has just passed his motorcycle learner permit and has the chance to ride his friend’s new motorcycle. Before he rides he should",
+        "question": "Shane has just passed his motorcycle learner permit and has the chance to ride his friend's new motorcycle. Before he rides he should",
         "answer": "reconsider and choose not to ride an unfamiliar bike",
         "choices": [
           "check that the fuel tap is on reserve",
@@ -115,7 +115,7 @@
         "question": "Tom is about to pull out from the kerb to join the traffic flow. He should",
         "answer": "make sure he positions the bike so he can see the traffic in both directions before pulling out",
         "choices": [
-          "accelerate as quickly as possible so that he is going faster than the tra c, and it can’t catch him",
+          "accelerate as quickly as possible so that he is going faster than the traffic, and it can't catch him",
           "put on his indicator because that gives him right of way",
           "make sure he positions the bike so he can see the traffic in both directions before pulling out"
         ]
@@ -352,7 +352,7 @@
     },
     {
         "id": "36",
-        "question": "The chain on Tam’s motorcycle breaks, but the back wheel does not lock up. He should",
+        "question": "The chain on Tam's motorcycle breaks, but the back wheel does not lock up. He should",
         "answer": "close the throttle and brake to a stop",
         "choices": [
           "release the brakes quickly",
@@ -373,11 +373,11 @@
     {
         "id": "38",
         "question": "You are riding along a freeway at 80 km/h. The front wheel begins to wobble. You should",
-        "answer": "don’t fight the wobble, but gradually slow down and carefully pull off the road",
+        "answer": "don't fight the wobble, but gradually slow down and carefully pull off the road",
         "choices": [
           "firmly grip the handgrips and accelerate out of the wobble",
           "firmly grip the handgrips and apply the brakes quickly to make the shaking stop",
-          "don’t fight the wobble, but gradually slow down and carefully pull off the road"
+          "don't fight the wobble, but gradually slow down and carefully pull off the road"
         ]
     }
   ]
