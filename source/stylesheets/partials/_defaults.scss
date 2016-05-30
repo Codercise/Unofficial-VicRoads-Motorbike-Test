@@ -19,12 +19,8 @@ body {
 .credits {
   position: absolute;
   bottom: 0;
-  width: 95%;
+  width: 100%;
   z-index: 10;
-
-  @media #{$medium-up} {
-    width: 100%;
-  }
 
   a {
     color: #000;
