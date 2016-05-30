@@ -3,3 +3,36 @@ $white: #E6E7E8;
 $green: #8DC84D;
 $cream: #FCD75C;
 $peach: #F09030;
+
+// Media Query Ranges
+$small-range: (0em, 40em) !default;
+$medium-range: (40.063em, 64em) !default;
+$large-range: (64.063em, 90em) !default;
+$xlarge-range: (90.063em, 120em) !default;
+$xxlarge-range: (120.063em, 99999999em) !default;
+
+
+$screen: "only screen" !default;
+
+$landscape: "only screen and (orientation: landscape)" !default;
+$portrait: "only screen and (orientation: portrait)" !default;
+
+$small-up: $screen !default;
+$small-only: "only screen and (max-width: 40em})" !default;
+
+$medium-up: "only screen and (min-width:40.063em)" !default;
+$medium-only: "only screen and (min-width:40.063em) and (max-width:64em)" !default;
+
+$large-up: "only screen and (min-width:64.063em)" !default;
+$large-only: "only screen and (min-width:64.063em) and (max-width:90em)" !default;
+
+$xlarge-up: "only screen and (min-width:90.063em)" !default;
+$xlarge-only: "only screen and (min-width:90.063em) and (max-width:120em)" !default;
+
+$xxlarge-up: "only screen and (min-width:120.063em)" !default;
+$xxlarge-only: "only screen and (min-width:120.063em) and (max-width:9999999999em)" !default;
+
+// Legacy
+$small: $medium-up;
+$medium: $medium-up;
+$large: $large-up;
